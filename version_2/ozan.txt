@@ -1,0 +1,1 @@
+burada ods dosyaları örnektir linux sistem kullandığım için ben .ods uzantılı dosyalarla işlem yaptım .Ancak .xlsx uzantılı dosyalarda da program çalışıyor. 
